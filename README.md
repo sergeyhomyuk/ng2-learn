@@ -21,8 +21,14 @@ Learning Angularjs 2
 ### Router
 * Introduction to ngNewRouter vs ui-router -  https://medium.com/angularjs-meetup-south-london/angular-just-another-introduction-to-ngnewrouter-vs-ui-router-72bfcb228017
 
-### Samples
+### Samples & Tutorials
+* 5 min quickstart - https://angular.io/docs/js/latest/quickstart.html
+* Step by step guide - https://angular.io/docs/js/latest/guide/
 * A token walks into a SPA - https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/
 
 ### Seed projects
 * angular2-seed - https://github.com/mgechev/angular2-seed
+
+### Tools
+* Sublime Text
+ * Arctic​Typescript - https://packagecontrol.io/packages/ArcticTypescript
