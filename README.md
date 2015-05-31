@@ -8,10 +8,10 @@ Learning Angularjs 2
 
 ### Change detection
 * Change detection in angular 2 - http://victorsavkin.com/post/110170125256/change-detection-in-angular-2
-* Angular 2 Dependency Injection Overview - http://www.youtube.com/watch?v=Nk9rbcWuYcE
 
 ### Dependency Injection
 * Dependency Injection in Angular 2 - http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
+* Angular 2 Dependency Injection Overview - http://www.youtube.com/watch?v=Nk9rbcWuYcE
 
 ### Forms & Templates
 * Angular 2 Template Syntax - http://victorsavkin.com/post/119943127151/angular-2-template-syntax
