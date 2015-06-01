@@ -16,7 +16,7 @@ Learning Angularjs 2
 
 ### Forms, Templates & Components
 * Angular 2 Template Syntax - http://victorsavkin.com/post/119943127151/angular-2-template-syntax
-* Forms in Angular 2 - http://angularjs.blogspot.be/2015/03/forms-in-angular-2.html
+* Forms in Angular 2 (syntax is obsolete) - http://angularjs.blogspot.be/2015/03/forms-in-angular-2.html
 * Angular 2 Forms - https://www.youtube.com/watch?v=4C4bmDOV5hk
 * Directives in Angular 2 - https://github.com/ibhi/Directives-in-Angular-2.0
 
@@ -27,6 +27,7 @@ Learning Angularjs 2
 * 5 min quickstart - https://angular.io/docs/js/latest/quickstart.html
 * Step by step guide - https://angular.io/docs/js/latest/guide/
 * A token walks into a SPA - https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/
+* Angular 2 Examples - https://github.com/angular/angular/tree/master/modules/examples
 
 ### Seed projects
 * angular2-seed - https://github.com/mgechev/angular2-seed
