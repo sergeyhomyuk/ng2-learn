@@ -3,6 +3,7 @@ Learning Angularjs 2
 
 ### Core Concepts
 * The Angular 2 Glossary - http://www.youtube.com/watch?v=YhcOeJP06Zc
+* ng-conf 2015 Keynote 2 - https://www.youtube.com/watch?v=-dMBcqwvYA0
 * The core concepts of Angular 2 - http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 * Two phases of Angular 2 applications - http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications
 
@@ -34,3 +35,6 @@ Learning Angularjs 2
 ### Tools
 * Sublime Text
  * Arctic​Typescript - https://packagecontrol.io/packages/ArcticTypescript
+ 
+### Other lists
+* A curated list of helpful material to get started with education on Angular 2 -  https://github.com/timjacobi/angular2-education
