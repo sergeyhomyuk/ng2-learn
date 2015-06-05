@@ -2,6 +2,7 @@
 Learning Angularjs 2
 
 ### Core Concepts
+* Angular2 - First Impressions - http://blog.mgechev.com/2015/04/06/angular2-first-impressions/
 * The Angular 2 Glossary - http://www.youtube.com/watch?v=YhcOeJP06Zc
 * ng-conf 2015 Keynote 2 - https://www.youtube.com/watch?v=-dMBcqwvYA0
 * The core concepts of Angular 2 - http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
