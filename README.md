@@ -8,6 +8,7 @@ Learning Angularjs 2
 * The core concepts of Angular 2 - http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 * Two phases of Angular 2 applications - http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications
 * Angular Weekly Meeting Notes - https://docs.google.com/document/d/150lerb1LmNLuau_a_EznPV1I1UHMTbEl61t4hZ7ZpS0/edit#heading=h.wyupmi438jru
+* Angular 2 Design Documents - https://drive.google.com/open?id=0B7Ovm8bUYiUDR29iSkEyMk5pVUk&authuser=0
 
 ### Change detection
 * Change detection in angular 2 - http://victorsavkin.com/post/110170125256/change-detection-in-angular-2
