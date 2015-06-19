@@ -1,5 +1,8 @@
 # ng2-learn
 Learning Angularjs 2
+* Change log - https://github.com/angular/angular/blob/master/CHANGELOG.md
+* Is Angular 2 Ready? - http://splintercode.github.io/is-angular-2-ready/
+* Gitter - https://gitter.im/angular/angular
 
 ### Core Concepts
 * Angular2 - First Impressions - http://blog.mgechev.com/2015/04/06/angular2-first-impressions/
@@ -9,6 +12,7 @@ Learning Angularjs 2
 * Two phases of Angular 2 applications - http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications
 * Angular Weekly Meeting Notes - https://docs.google.com/document/d/150lerb1LmNLuau_a_EznPV1I1UHMTbEl61t4hZ7ZpS0/edit#heading=h.wyupmi438jru
 * Angular 2 Design Documents - https://drive.google.com/open?id=0B7Ovm8bUYiUDR29iSkEyMk5pVUk&authuser=0
+* Why Will Angular 2 Rock? - http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/
 
 ### Change detection
 * Change detection in angular 2 - http://victorsavkin.com/post/110170125256/change-detection-in-angular-2
@@ -25,6 +29,7 @@ Learning Angularjs 2
 
 ### Router
 * Introduction to ngNewRouter vs ui-router -  https://medium.com/angularjs-meetup-south-london/angular-just-another-introduction-to-ngnewrouter-vs-ui-router-72bfcb228017
+* Routing in Angular 2 - http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html
 
 ### Samples & Tutorials
 * 5 min quickstart - https://angular.io/docs/js/latest/quickstart.html
@@ -40,5 +45,5 @@ Learning Angularjs 2
 * Sublime Text
  * Arctic​Typescript - https://packagecontrol.io/packages/ArcticTypescript
  
-### Other lists
+### Lists
 * A curated list of helpful material to get started with education on Angular 2 -  https://github.com/timjacobi/angular2-education
