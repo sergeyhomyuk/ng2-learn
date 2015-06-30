@@ -3,6 +3,7 @@ Learning Angularjs 2
 * Change log - https://github.com/angular/angular/blob/master/CHANGELOG.md
 * Is Angular 2 Ready? - http://splintercode.github.io/is-angular-2-ready/
 * Gitter - https://gitter.im/angular/angular
+* Angular U Conference - https://angularu.com
 
 ### Core Concepts
 * Angular2 - First Impressions - http://blog.mgechev.com/2015/04/06/angular2-first-impressions/
