@@ -38,6 +38,7 @@ Learning Angularjs 2
 * A token walks into a SPA - https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/
 * Angular 2 Examples - https://github.com/angular/angular/tree/master/modules/examples
 * Exercise for building simple Angular 2 apps - https://github.com/mgechev/angular2-github-app-bootstrap
+* Diving Into Angular2 sample application by jwcarroll https://github.com/jwcarroll/diving-into-angular2
 
 ### Seed projects
 * angular2-seed - https://github.com/mgechev/angular2-seed
