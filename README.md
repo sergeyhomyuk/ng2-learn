@@ -27,6 +27,7 @@ Learning Angularjs 2
 * Forms in Angular 2 (syntax is obsolete) - http://angularjs.blogspot.be/2015/03/forms-in-angular-2.html
 * Angular 2 Forms - https://www.youtube.com/watch?v=4C4bmDOV5hk
 * Directives in Angular 2 - https://github.com/ibhi/Directives-in-Angular-2.0
+* Build An Angular 2 App – Data Binding Syntax - http://www.wintellect.com/devcenter/jcarroll/build-an-angular-2-app-data-binding-syntax
 
 ### Router
 * Introduction to ngNewRouter vs ui-router -  https://medium.com/angularjs-meetup-south-london/angular-just-another-introduction-to-ngnewrouter-vs-ui-router-72bfcb228017
