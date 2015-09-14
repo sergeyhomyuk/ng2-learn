@@ -21,6 +21,8 @@ Learning Angularjs 2
 ### Dependency Injection
 * Dependency Injection in Angular 2 - http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html
 * Angular 2 Dependency Injection Overview - http://www.youtube.com/watch?v=Nk9rbcWuYcE
+* Dependency Injection in Angular 1 and Angular 2 - http://victorsavkin.com/post/126514197956/dependency-injection-in-angular-1-and-angular-2
+* Host and Visibility in Angular 2's Dependency Injection - http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html
 
 ### Forms, Templates & Components
 * Angular 2 Template Syntax - http://victorsavkin.com/post/119943127151/angular-2-template-syntax
@@ -29,6 +31,7 @@ Learning Angularjs 2
 * Directives in Angular 2 - https://github.com/ibhi/Directives-in-Angular-2.0
 * Build An Angular 2 App – Data Binding Syntax - http://www.wintellect.com/devcenter/jcarroll/build-an-angular-2-app-data-binding-syntax
 * Introduction to Angular 2 - The fundamentals of Components - http://blog.jhades.org/introduction-to-angular-2-fundamentals-of-components-events-properties-and-actions/
+* View Encapsulation in Angular 2 - http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html
 
 ### Router
 * Introduction to ngNewRouter vs ui-router -  https://medium.com/angularjs-meetup-south-london/angular-just-another-introduction-to-ngnewrouter-vs-ui-router-72bfcb228017
@@ -40,7 +43,8 @@ Learning Angularjs 2
 * A token walks into a SPA - https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/
 * Angular 2 Examples - https://github.com/angular/angular/tree/master/modules/examples
 * Exercise for building simple Angular 2 apps - https://github.com/mgechev/angular2-github-app-bootstrap
-* Diving Into Angular2 sample application by jwcarroll https://github.com/jwcarroll/diving-into-angular2
+* Diving Into Angular2 sample application by jwcarroll - https://github.com/jwcarroll/diving-into-angular2
+* Example Chat Application using RxJS and Angular 2 - https://github.com/ng-book/angular2-rxjs-chat
 
 ### Seed projects
 * angular2-seed - https://github.com/mgechev/angular2-seed
